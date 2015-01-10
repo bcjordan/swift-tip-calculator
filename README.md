@@ -2,7 +2,7 @@
 
 This is an iOS application written in Swift targeting iPhone 5 and iOS 8.1.
 
-Time spent: 5 hours spent in total
+Time spent: 1h45m spent in total (~45m for video instruction portion, ~1h for customizations)
 
 Completed user stories:
 
@@ -13,6 +13,14 @@ Completed user stories:
 Walkthrough of all user stories coming soon.
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+# Installation and usage
+
+1. Clone this repositoy `git clone https://github.com/bcjordan/swift-tips`
+2. Open the `.xcodeproj` in Xcode, version 6.1.1+
+3. Select the iPhone 5 in the device drop-down
+4. Press Run (or hit `Cmd + R`)
+5. Try some of the user stories above
 
 # FAQ
 
