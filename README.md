@@ -10,7 +10,9 @@ Completed user stories:
  * [x] Required: Modify the style of the app
  * [x] Optional (custom): add configurable, persisted custom tip percentages to Settings view
 
-Walkthrough of all user stories coming soon.
+Walkthrough of all user stories:
+
+![](https://cloud.githubusercontent.com/assets/206973/5690036/303f8c04-9818-11e4-9b39-32b31c7965c2.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
